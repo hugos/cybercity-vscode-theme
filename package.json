@@ -1,0 +1,21 @@
+{
+    "name": "hugodvlpr-theme",
+    "displayName": "hugodvlpr-theme",
+    "description": "A modern, full of colour & contrast theme - created for you, by Hugo Silva.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "hugodvlpr",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hugodvlpr-color-theme.json"
+            }
+        ]
+    }
+}
