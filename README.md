@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "hugodvlpr-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<h2 align="center">hugodvlpr-theme</h2>
+<h5 align="center">Created for you, by <a href="https://www.instagram.com/hugodvlpr">@Hugodvlpr</a></h5>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+<br>
+<p align="center">
+A modern, full of colour, contrasting cyberpunk theme for VSCode 👾   
+</p>

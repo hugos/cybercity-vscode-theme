@@ -1,8 +1,21 @@
 {
   "name": "hugodvlpr-theme",
   "displayName": "hugodvlpr-theme",
-  "description": "A modern, full of colour & contrast theme - created for you, by Hugo Silva.",
+  "description": "A modern, full of colour, contrasting cyberpunk theme - created for you, by Hugo Silva.",
   "version": "0.0.1",
+  "publisher": "Hugodvlpr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hugos/hugodvlpr-vscode-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "green theme",
+    "neon green",
+    "cyberpunk",
+    "hugodvlpr"
+  ],
   "engines": {
     "vscode": "^1.56.0"
   },
