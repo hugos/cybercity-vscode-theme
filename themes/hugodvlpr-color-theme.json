@@ -3,10 +3,10 @@
   "type": "dark",
   "colors": {
     // Editor
-    "editor.background": "#1c242b",
+    "editor.background": "#151b20",
     "editor.foreground": "#ff8b56",
     "editorGroup.dropBackground": "#4954954a",
-    "editorGroupHeader.tabsBackground": "#1c242b",
+    "editorGroupHeader.tabsBackground": "#151b20",
     "editorCursor.background": "#241b2f",
     "editorCursor.foreground": "#00d4b1",
     "editorGroup.border": "#00d4b1",
@@ -17,7 +17,7 @@
     "editorGroup.focusedEmptyBorder": "#00d4b1",
 
     // Welcome page
-    "welcomePage.background": "#1c242b",
+    "welcomePage.background": "#151b20",
     "welcomePage.buttonBackground": "#0022158a",
     "welcomePage.buttonHoverBackground": "#00643fa2",
     "walkThrough.embeddedEditorBackground": "#00d482",
@@ -59,17 +59,17 @@
     "editorBracketMatch.border": "#00d4b181",
 
     // Tabs
-    "tab.activeBackground": "#1c242b",
-    "tab.border": "#1c242b",
+    "tab.activeBackground": "#151b20",
+    "tab.border": "#151b20",
     "tab.activeForeground": "#00d4b1",
     "tab.activeBorder": "#00d4b1",
     "tab.unfocusedActiveBorder": "#015f4f",
     "tab.activeBorderTop": "#00d4b1",
-    "tab.unfocusedActiveBorderTop": "#1c242b",
-    "tab.unfocusedActiveBackground": "#1c242b",
+    "tab.unfocusedActiveBorderTop": "#151b20",
+    "tab.unfocusedActiveBackground": "#151b20",
     "tab.lastPinnedBorder": "#00d4b1", //?
-    "tab.inactiveBackground": "#1c242b",
-    "tab.unfocusedInactiveBackground": "#1c242b",
+    "tab.inactiveBackground": "#151b20",
+    "tab.unfocusedInactiveBackground": "#151b20",
     "tab.inactiveForeground": "#017562",
     "tab.unfocusedActiveForeground": "#00d4b1",
     "tab.unfocusedInactiveForeground": "#00d4b1",
@@ -83,12 +83,12 @@
     "tab.inactiveModifiedBorder": "#007a66",
 
     // Title bar
-    "titleBar.activeBackground": "#1c242b",
-    "titleBar.inactiveBackground": "#1c242b",
+    "titleBar.activeBackground": "#151b20",
+    "titleBar.inactiveBackground": "#151b20",
 
     // Activity bar
     "activityBarBadge.background": "#e0f000",
-    "activityBar.background": "#1c242b",
+    "activityBar.background": "#151b20",
     "activityBar.border": "#00d4b1",
     "activityBar.dropBorder": "#006e6ea1",
     "activityBar.foreground": "#00d4b1",
@@ -99,7 +99,7 @@
     "activityBar.activeFocusBorder": "#00493d79",
 
     // Side bar
-    "sideBar.background": "#1c242b",
+    "sideBar.background": "#151b20",
     "sideBar.foreground": "#00d4b1",
     "sideBar.border": "#00493d79",
     "sideBar.dropBackground": "#00493d79",
@@ -147,7 +147,7 @@
     "gitDecoration.submoduleResourceForeground": "#ff0000",
 
     // Gutter
-    "editorGutter.background": "#1c242b",
+    "editorGutter.background": "#151b20",
     "editorGutter.modifiedBackground": "#c8ff00",
     "editorGutter.addedBackground": "#e0f000",
     "editorGutter.deletedBackground": "#ff0000",
@@ -167,7 +167,7 @@
     "icon.foreground": "#00d482",
 
     // Terminal
-    "terminal.background": "#1c242b",
+    "terminal.background": "#151b20",
     "terminal.border": "#00ff9c",
     "terminal.foreground": "#00ca7d",
     "terminal.ansiBlack": "#10d4b0",
