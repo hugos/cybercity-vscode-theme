@@ -67,7 +67,7 @@
     "tab.activeBorderTop": "#00d4b1",
     "tab.unfocusedActiveBorderTop": "#151b20",
     "tab.unfocusedActiveBackground": "#151b20",
-    "tab.lastPinnedBorder": "#00d4b1", //?
+    "tab.lastPinnedBorder": "#00d4b1",
     "tab.inactiveBackground": "#151b20",
     "tab.unfocusedInactiveBackground": "#151b20",
     "tab.inactiveForeground": "#017562",
@@ -135,6 +135,12 @@
     "textLink.activeForeground": "#ff7edb",
     "textLink.foreground": "#f97e72",
 
+    // Gutter
+    "editorGutter.background": "#151b20",
+    "editorGutter.modifiedBackground": "#c8ff00",
+    "editorGutter.addedBackground": "#e0f000",
+    "editorGutter.deletedBackground": "#ff0000",
+
     // Git colors
     "gitDecoration.addedResourceForeground": "#00d482",
     "gitDecoration.modifiedResourceForeground": "#00d482",
@@ -145,12 +151,6 @@
     "gitDecoration.ignoredResourceForeground": "#00ccff",
     "gitDecoration.conflictingResourceForeground": "#00ff6a",
     "gitDecoration.submoduleResourceForeground": "#ff0000",
-
-    // Gutter
-    "editorGutter.background": "#151b20",
-    "editorGutter.modifiedBackground": "#c8ff00",
-    "editorGutter.addedBackground": "#e0f000",
-    "editorGutter.deletedBackground": "#ff0000",
 
     // Diff
     "diffEditor.insertedTextBackground": "#1eff0011",

@@ -5,3 +5,5 @@
 <p align="center">
 A modern, full of colour, contrasting cyberpunk theme for VSCode 👾   
 </p>
+<br>
+![hugodvlpr-theme-example](images/example.png)
