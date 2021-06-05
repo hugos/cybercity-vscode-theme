@@ -6,4 +6,7 @@
 A modern, full of colour, contrasting cyberpunk theme for VSCode 👾   
 </p>
 
-![hugodvlpr-theme-example](images/example.png)
+<img src="https://github.com/hugos/hugodvlpr-vscode-theme/blob/master/images/example.png?raw=true" alt="hugodvlpr-theme-example">
+
+
+
