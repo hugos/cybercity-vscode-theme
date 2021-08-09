@@ -1,6 +1,6 @@
 {
-  "name": "hugodvlpr-theme",
-  "displayName": "hugodvlpr-theme",
+  "name": "Cybercity",
+  "displayName": "Cybercity",
   "description": "A modern, full of colour, contrasting cyberpunk theme - created for you, by Hugo Silva.",
   "icon": "images/hugodvlpr.png",
   "version": "0.3.0",
@@ -15,7 +15,9 @@
     "green theme",
     "neon green",
     "cyberpunk",
-    "hugodvlpr"
+    "hugouix",
+    "cybercity",
+    "hacker"
   ],
   "engines": {
     "vscode": "^1.56.0"
@@ -26,7 +28,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hugodvlpr",
+        "label": "Hugo Silva",
         "uiTheme": "vs-dark",
         "path": "./themes/hugodvlpr-color-theme.json"
       }

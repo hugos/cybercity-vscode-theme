@@ -1,5 +1,5 @@
 {
-  "name": "hugodvlp",
+  "name": "Cybercity",
   "type": "dark",
   "colors": {
     // Editor
@@ -55,8 +55,9 @@
     "editor.symbolHighlightBorder": "#00d4b1",
 
     // Brackets
-    "editorBracketMatch.background": "#4200ad3d",
+    "editorBracketMatch.background": "#160d0d",
     "editorBracketMatch.border": "#00d4b181",
+
 
     // Tabs
     "tab.activeBackground": "#151b20",
